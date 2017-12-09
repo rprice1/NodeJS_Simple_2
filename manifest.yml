@@ -3,6 +3,6 @@ applications:
   memory: 125M
   instances: 1
   domain: mybluemix.net
-  name: cscmaroc10
-  host: cscmaroc10
+  name: RPrice14
+  host: RPrice14
   disk_quota: 1024M
